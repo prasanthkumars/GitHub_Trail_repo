@@ -1,2 +1,3 @@
 Hello from dummy file.
 this message to check is it reflect  to local git folder
+yes!! it is reflected. message from local folder.
